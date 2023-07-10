@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: class35_cucumber_test
+Bundle-SymbolicName: class35_Microtec_test
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: class35.cucumber.test
+Export-Package: Step_defination,
+ base,
+ runner
